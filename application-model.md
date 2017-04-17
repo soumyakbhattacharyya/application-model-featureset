@@ -28,7 +28,13 @@
 <p align="center">
   <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/property-registry-list-view.jpg" width="800" height="200"/>
   <p align="center">List of Property Registry Entries</p>
-</p> 	
+</p>
+<p align="center">
+  <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/property-registry-artifact-view.jpg" width="800" height="200"/>
+  <p align="center">Artifacts associated with a property</p>
+</p>
+
+
 	
 
 #### Artifact Property View
