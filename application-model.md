@@ -25,6 +25,11 @@
 3. In following screenshot typical view of Property Registry is shown. Via this UI, user can
 	1. Provide a meaningful description & default value for the property
 	2. View all artifacts which are associated with *a specific* property 
+<p align="center">
+  <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/property-registry-list-view.jpg" width="800" height="200"/>
+  <p align="center">List of Property Registry Entries</p>
+</p> 	
+	
 
 #### Artifact Property View
 
