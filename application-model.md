@@ -13,13 +13,19 @@
 1. Jenkins console will print discovered properties against the file which was introspected, as part of build log
 2. In following screenshot section (A) highlights *customProperties* discovered during the build process and section (B) highlights files which were introspected 
 <p align="center">
-  <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/jenkins-console.jpg" alt="Jenkins Console" width="500" height="600"/>
-</p>
-  
+  <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/jenkins-console.jpg" "Jenkins Console" width="500" height="600"/>
+</p>  
 
-#### Artifact Property View
 
 ### Property Registry
+
+1. Properties that are reported gets registered in MyST
+2. MyST tracks version of artifact to which the properties are associated and vice versa
+3. In following screenshot typical view of Property Registry is shown. Via this UI, user can
+	1. Provide a meaningful description & default value for the property
+	2. View all artifacts which are associated with *a specific* property 
+
+#### Artifact Property View
 
 ### Stream Model
 
