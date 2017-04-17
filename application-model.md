@@ -12,7 +12,10 @@
 
 1. Jenkins console will print discovered properties against the file which was introspected, as part of build log
 2. In following screenshot section (A) highlights *customProperties* discovered during the build process and section (B) highlights files which were introspected 
+<p align="center">
   <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/jenkins-console.jpg" alt="Jenkins Console" width="500" height="600"/>
+</p>
+  
 
 #### Artifact Property View
 
