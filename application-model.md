@@ -11,7 +11,7 @@
 #### Jenkins Console
 
 1. Jenkins console will print discovered properties against the file which was introspected, as part of build log
-2. <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/jenkins-console.jpg" alt="Drawing" style="width: 200px;"/>
+2. <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/jenkins-console.jpg" alt="Drawing" style="width: 100px;"/>
 
 #### Artifact Property View
 
