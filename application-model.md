@@ -18,7 +18,7 @@
 </p>  
 
 
-### Property Registry
+#### Property Registry
 
 1. Properties that are reported gets registered in MyST
 2. MyST tracks version of artifact to which the properties are associated and vice versa
