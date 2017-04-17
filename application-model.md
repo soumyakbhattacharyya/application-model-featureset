@@ -14,7 +14,7 @@
 2. In following screenshot section (A) highlights *customProperties* discovered during the build process and section (B) highlights files which were introspected 
 <p align="center">
   <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/jenkins-console.jpg" width="500" height="600"/>
-  <p allign="center">Jenkins Console</p>
+  <p align="center">Jenkins Console</p>
 </p>  
 
 
