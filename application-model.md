@@ -26,7 +26,7 @@
 	1. Provide a meaningful description & default value for the property
 	2. View all artifacts which are associated with *a specific* property 
 <p align="center">
-  <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/property-registry-list-view.jpg" width="300" height="600"/>
+  <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/property-registry-list-view.jpg" width="600" height="200"/>
   <p align="center">List of Property Registry Entries</p>
 </p> 	
 	
