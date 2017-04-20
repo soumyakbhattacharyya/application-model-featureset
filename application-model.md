@@ -39,7 +39,7 @@
 1. While Property Registry depicts the relationship between a property to ALL artifacts it relates to, this view shows the opposite i.e. it shows, all properties that a given version of artifact associates with 
 2. In following screenshot 
 <p align="center">
-  <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/artifact-properties-view.jpg" width="800" height="200"/>
+  <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/artifact-properties-view.jpg" width="800" height="400"/>
   <p align="center">Properties associated with an artifact version</p>
 </p>
 
