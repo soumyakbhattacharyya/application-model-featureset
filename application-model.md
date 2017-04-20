@@ -43,6 +43,10 @@
   <p align="center">Properties associated with an artifact version</p>
 </p>
 
-### Stream Model
+#### Stream Model
+
+1. Stream consists of Application Blueprint Version(s). Application Blueprint Version in turn consists of Artifact Version(s). Stream Model is a collection of ALL properties required by ALL artifacts consolidating constituent Application Blueprint Version(s). Stream Model is the container where user provides value for the properties. If the properties have default value configured, those values are being used by default, user may override these entries (which are default populated) though. Properties in a stream model can refer other properties. Note that, these properties are being tracked at Platform Instance level. This statement will have significance when we explain property value resolution behavior in more detail in subsequent sections.
+2. Stream Model can be edited via the cog wheel that appear in the juncture of a stream & a stage. That said, editing can be done irrespective of the fact that corresponding Release Pipeline is active / inactive. Point to note here is, in inactive state, Stream definition is being considered, to identify properties required by the Stream, while in active state, latest Stream Revision is what is negotiated to discover properties required by the Stream.
+3. Stream Model can be saved multiple times without any eventual after effect. However committing Stream Model, creates a potential new  revision / snapshot. If the committed properties affect any other Streams (across Release Pipelines), for all Stages the Stream (or revisions)   
 
 ### Approval / Deployment Behavior
