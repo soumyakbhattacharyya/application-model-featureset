@@ -37,7 +37,7 @@
 #### Artifact Property View
 
 1. While Property Registry depicts the relationship between a property to ALL artifacts it relates to, this view shows the opposite i.e. it shows, all properties that a given version of artifact associates with 
-2. In following screenshot 
+2. In following screenshot, Properties section shows all existing and past properties associated with an Artifact version. First and Last Build columns next to a property signifies first build number, when CI server reported this property while last build number signifies last time it was posted to MyST. That said, *LATEST* signifies that the property has been reported in recent most build for the artifact version. So effectively properties which *has a specific Last Build entry* are not in use as of now. These properties  which has reached end of life can get reported again and they will show up in this view along with previous entry (ies). But quite obviously, those entries will have *First Build* number and *LATEST* on Last Build column
 <p align="center">
   <img src="https://github.com/soumyakbhattacharyya/application-model-featureset/blob/master/artifact-properties-view.jpg" width="800" height="400"/>
   <p align="center">Properties associated with an artifact version</p>
